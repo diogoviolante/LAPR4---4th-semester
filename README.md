@@ -23,7 +23,7 @@ _Base logo created with [kammerl ascii signature](https://www.kammerl.de/ascii/A
 
 ## Who do I talk to?
 
-Paulo Gandra de Sousa [pag@isep.ipp.pt](emailto:pag@isep.ipp.pt) / [pagsousa@gmail.com](emailto:pagsousa@gmail.com)
+Diogo de Sá Violante [1201284@isep.ipp.pt](emailto:1201284@isep.ipp.pt) / [dsviolante@gmail.com](emailto:dsviolante@gmail.com)
 
 ## License and copyright
 
